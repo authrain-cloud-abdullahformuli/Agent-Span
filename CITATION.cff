@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use AgentSpan, please cite it using these metadata."
+title: "AgentSpan: The Web Access Gateway for AI Agents"
+type: software
+authors:
+  - family-names: "Formuli"
+    given-names: "Abdullah"
+    email: "authrainmedia@gmail.com"
+    website: "https://github.com/authrain-cloud-abdullahformuli"
+url: "https://github.com/authrain-cloud-abdullahformuli/Agent-Span"
+repository-code: "https://github.com/authrain-cloud-abdullahformuli/Agent-Span"
+license: MIT
+keywords:
+  - ai-agents
+  - mcp
+  - model-context-protocol
+  - web-gateway
+  - rust
+  - proxy
+  - scraping

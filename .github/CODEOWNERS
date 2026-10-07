@@ -1,0 +1,20 @@
+# Code owners for review routing.
+# https://docs.github.com/articles/about-code-owners
+
+# Default owner for everything not matched more specifically.
+*                       @authrain-cloud-abdullahformuli
+
+# Rust core — the crates that everything else depends on.
+/crates/agentspan-core/     @authrain-cloud-abdullahformuli
+/crates/agentspan-router/   @authrain-cloud-abdullahformuli
+/crates/agentspan-cache/    @authrain-cloud-abdullahformuli
+/crates/agentspan-auth/     @authrain-cloud-abdullahformuli
+
+# SDKs.
+/sdk/                   @authrain-cloud-abdullahformuli
+
+# Dashboard.
+/web/                   @authrain-cloud-abdullahformuli
+
+# CI / release plumbing.
+/.github/               @authrain-cloud-abdullahformuli
